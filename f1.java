@@ -1,4 +1,4 @@
-public class AlternatePrimeEasy {
+public class f1 {
     public static void main(String[] args) {
         int num = 2;  
         int printed = 0;
